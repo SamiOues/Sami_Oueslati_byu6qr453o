@@ -53,6 +53,13 @@ public class Student {
         this.schoolCourse = schoolCourse;
     }
 
+    public Student(Long id,String firstName, String lastName, SchoolCourse schoolCourse) {
+        this.id = id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.schoolCourse = schoolCourse;
+    }
+
     public Student(String firstName, String lastName, SchoolCourse schoolCourse) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -62,6 +69,7 @@ public class Student {
         this.firstName = firstName;
         this.lastName = lastName;
     }
+
 
 
 }
