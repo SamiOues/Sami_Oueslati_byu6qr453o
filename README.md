@@ -39,7 +39,7 @@ Clone the repository to your local machine:
 
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SamiOues/Sami_Oueslati_byu6qr453o.git
 ```
 
 Navigate to the project directory:
